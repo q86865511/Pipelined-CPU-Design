@@ -1,0 +1,9 @@
+# Icarus Verilog 編譯/模擬產物（可重新產生，不該進版控）
+*.vvp
+*.vcd
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
